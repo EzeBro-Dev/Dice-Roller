@@ -23,5 +23,4 @@ Each time you click the **Roll** button, it generates a random number between 1 
 ## 📦 Installation
 Clone this repository:
 ```bash
-git clone https://github.com/EzeBro-Dev/Dice-Roller.git
-﻿# Dice-Roller
+https://github.com/EzeBro-Dev/Dice-Roller.git
